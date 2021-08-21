@@ -2,6 +2,7 @@
 This app concept is a collection of all my works. App is setup using REACT.
 
 visit site here: https://chestergarett-portfolio-ff9f1e.netlify.app/
+
 if you encounter bugs, please raise as issue.
 
 CHECK OUT MY WORKS
