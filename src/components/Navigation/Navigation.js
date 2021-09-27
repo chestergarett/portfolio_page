@@ -52,9 +52,9 @@ const Navigation = () => {
             </Link>
         </li>
         <li key='8'>
-            <Link to ='/NotFound' className={classes.navigationItem}>
+            <a href='https://bwinance.herokuapp.com/' target="_blank" className={classes.navigationItem}>
                 <FcSalesPerformance className={classes.icons}/><span>Trading</span>
-            </Link>
+            </a>
         </li>
         <li key='9'>
             <div className={classes.navigationItem}>

@@ -7,7 +7,7 @@ import Avatar from '@material-ui/core/Avatar';
 const Education = () => {
 
     const education = [ 
-        {logo: avionschool, year: "April to Nov 2020", school: "Avion School", course: "Full Stack Web Development", achievement: ""},
+        {logo: avionschool, year: "April to Nov 2021", school: "Avion School", course: "Full Stack Web Development", achievement: ""},
         {logo: silliman_u, year: "June 2011 to Mar 2016", school: "Silliman University", course: "Bachelor of Science in Accountancy", achievement: ""},
         {logo: spu_u, year: "June 2006 to March 2011", school: "St. Paul University Dumaguete", course: "High School", achievement: "Class Valedictorian"},
         {logo: spu_u, year: "June 2000 to March 2006", school: "St. Paul University Dumaguete", course: "Grade School", achievement: "Class Valedictorian"},
