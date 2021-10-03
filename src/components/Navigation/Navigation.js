@@ -42,9 +42,9 @@ const Navigation = () => {
             </Link>
         </li>
         <li key='6'>
-            <Link to='/NewsCompiled' className={classes.navigationItem}>
-                <FcReading className={classes.icons}/><span>News</span>
-            </Link>
+            <a href='https://chestergarett-durawg-0f82d5.netlify.app/' target="_blank" className={classes.navigationItem}>
+                <FcReading className={classes.icons}/><span>Games</span>
+            </a>
         </li>
         <li key='7'>
             <Link to ='/Messenger' className={classes.navigationItem}>

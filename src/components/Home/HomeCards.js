@@ -65,7 +65,7 @@ const projects = [
         github: 'https://github.com/chestergarett/momentum-app',
         description: 'Showcasing API calls via axios. Database and OAuth2 authentication is powered by Firebase and tournament creation is powered by Challonge API. Main app is done using ReactJS framework.'
     },
-]
+].reverse()
 
 const HomeCard = () => {
   
