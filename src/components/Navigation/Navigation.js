@@ -37,9 +37,9 @@ const Navigation = () => {
             </a>
         </li>
         <li key='5'>
-            <Link exact to='/NotFound' className={classes.navigationItem}>
-                <FcBriefcase className={classes.icons}/><span>Journals</span>
-            </Link>
+            <a href='https://avion-fitness-bot.netlify.app/' target="_blank" className={classes.navigationItem}>
+                <FcBriefcase className={classes.icons}/><span>Fitness</span>
+            </a>
         </li>
         <li key='6'>
             <a href='https://chestergarett-durawg-0f82d5.netlify.app/' target="_blank" className={classes.navigationItem}>
